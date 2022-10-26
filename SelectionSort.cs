@@ -9,7 +9,7 @@ namespace Algorithms
     public static class SelectionSort
     {
 
-        //{5,3,9,2,1,4,5,8,2,0,1,9,2}
+        
         public static int[] SortASC(List<int> UnsortedList)
         {
             int[] sortedArray = new int[UnsortedList.Count];

@@ -18,3 +18,11 @@
 //{
 //    Console.Write($"{item}, ");
 //}
+
+
+
+//int[] arr = { 59, 13, 139, 29, 251, 43, 54, 85, 92, 5, 20, 9, 19 };
+//foreach (var item in BubbleSort.Sort(arr))
+//{
+//    Console.WriteLine(item);
+//}
