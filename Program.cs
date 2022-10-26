@@ -26,3 +26,13 @@
 //{
 //    Console.WriteLine(item);
 //}
+
+
+//Recursion.CountDown(25);
+//Console.WriteLine(Recursion.Factorial(5));
+Recursion.GenerateFibonacciSeries(0, 1, 1, 10);
+
+for (int i = 0; i < 10; i++)
+{
+    Console.Write($"{Recursion.GenerateFibonacciSeries(i)}, ");
+}
